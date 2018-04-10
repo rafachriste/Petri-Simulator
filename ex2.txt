@@ -1,0 +1,2 @@
+Consumidor[l][t]=p
+produtor[t][l]=p

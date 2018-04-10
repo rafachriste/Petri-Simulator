@@ -1,0 +1,13 @@
+lugares: 3
+tokens: 6
+        0
+        1
+transicoes: 2
+tipos de arcos: 2
+arcos consumidores: 2
+                    001
+                    112
+arcos produtores: 3
+                  011
+                  001
+                  123
